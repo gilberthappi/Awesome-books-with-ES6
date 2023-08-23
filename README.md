@@ -62,9 +62,9 @@ npm install
 
 👤 **Gilbert Happi**
 
-- GitHub: [@githubhandle](https://github.com/gilberhappi)
+- GitHub: [@githubhandle](https://github.com/gilberthappi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
-- Twitter: [Twitter](@Gildushimimana3)
+- Twitter: [Twitter](@dushimimanagil3)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
